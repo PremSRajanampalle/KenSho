@@ -12,5 +12,4 @@ The files are structures as following:
 5. eval.py contains script for evaluating the finetuned model. We used 4 dream interpretations (from DreamBank) and the corresponding predicted interpretation. Used BERT to encode the two interpretation, followed by Cosine Similarity for finding the similarity between the two.
 6. interpretation.ipynb is python notebook file containing script for finetuning llama 2 7B model. Learned from Krish Naik's implementation of finetuning llama 2 7B LLM on a custom dataset: https://www.youtube.com/watch?v=Vg3dS-NLUT4
 
-![image](https://github.com/user-attachments/assets/3c4403f9-841a-4f9b-af3f-067cfb3554ce)
 
