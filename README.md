@@ -13,4 +13,4 @@ The files are structures as following:
 6. interpretation.ipynb is python notebook file containing script for finetuning llama 2 7B model. Learned from Krish Naik's implementation of finetuning llama 2 7B LLM on a custom dataset: https://www.youtube.com/watch?v=Vg3dS-NLUT4
 
 
-![Click Here]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/PremSRajanampalle/KenSho/blob/main/dreams.jpg))
+![Click Here](dreams.jpg)
